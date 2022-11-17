@@ -24,6 +24,6 @@ Written using HTML, CSS, and JavaScript for the exercise at the Frontend Develop
 ## Deployment
 
 * [Vercel](https://vercel.com/dashboard) used as a deployment platform. </br>
-* Live link of the application - [App](https://meme-picker-with-js.vercel.app/)
+* Live link of the [application](https://meme-picker-with-js.vercel.app/)
 
 
